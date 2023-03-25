@@ -1,7 +1,7 @@
 # T480s-OpenCore-Hackintosh
 Opencore T480s Hackintosh Guide
 
-**Status: Unmaintained**
+**Status: Maintained**
 
 Sorry, I no longer use macOS on my T480. If a maintained fork is formed, it will be listed here
 
