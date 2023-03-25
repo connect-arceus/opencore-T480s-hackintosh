@@ -1,24 +1,18 @@
 # T480s-OpenCore-Hackintosh
 Opencore T480s Hackintosh Guide
 
-**Status: Maintained**
+**Status: Updated**
 
-Sorry, I no longer use macOS on my T480. If a maintained fork is formed, it will be listed here
-
-🚨 **UPDATE**: Maintained repo by [@valnoxy](https://github.com/valnoxy) https://github.com/valnoxy/t480-oc
-
+This is only used by the Lenovo ThinkPad T480s. A guide for Lenovo Thinkpad T480 is a repo by: [@valnoxy] https://github.com/valnoxy/t480-oc
 
 <img align="right" src="./Other/README_Resources/ThinkPad.gif" alt="T480 macOS" width="430">
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
-[![macOS-Previous](https://img.shields.io/badge/macOS-10.14.6-brightgreen.svg)](https://github.com/EETagent/T480-OpenCore-Hackintosh/issues/11)
-[![macOS-Stable](https://img.shields.io/badge/macOS-10.15.7-brightgreen.svg)](https://www.apple.com/macos/catalina/)
-[![macOS-Unstable](https://img.shields.io/badge/macOS-11.2.2-brightgreen.svg)](https://www.apple.com/macos/big-sur)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS-Unstable](https://img.shields.io/badge/macOS-11.7.4-brightgreen.svg)](https://www.apple.com/macos/big-sur)
 
 **DISCLAIMER:**
-Read the entire README and Dortania guides before you start. I am not responsible for any damage.
-When you encounter bug or want to improve this repo, consider opening issue or pull request. 
-If you find this bootloader configuration useful, consider giving it a star to make it more visible.
+Before starting, make sure to read the complete README and Dortania guides. Please note that I am not liable for any harm that may arise.
+If you come across a bug or wish to enhance this repository, kindly create an issue or pull request. Moreover, if you find this bootloader configuration helpful, please consider giving it a star to increase its visibility.
 
 ## Introduction
 
@@ -30,8 +24,6 @@ If you find this bootloader configuration useful, consider giving it a star to m
 
 - Useful tools by [CorpNewt](https://github.com/corpnewt) and [headkaze](https://github.com/headkaze/Hackintool)
 
-- [CREDITS](CREDITS.md) file
-
 </details>  
 
 <details>
@@ -39,8 +31,6 @@ If you find this bootloader configuration useful, consider giving it a star to m
 <summary><strong>Hardware</strong></summary>
 <br>
 
-
-[![UEFI](https://img.shields.io/badge/UEFI-N24ET61W-lightgrey)](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t480-type-20l5-20l6/downloads/ds502355)
 | Category  | Component                            | Note                                                                                                               |
 | --------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | CPU       | Intel Core i5-8250U                  | 20L50000MC                                                                                                         |
