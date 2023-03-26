@@ -33,10 +33,10 @@ If you come across a bug or wish to enhance this repository, kindly create an is
 
 | Category  | Component                            | Note                                                                                                               |
 | --------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| CPU       | Intel Core i5-8250U                  | 20L50000MC                                                                                                         |
+| CPU       | Intel Core i5-8350U Kaby Lake R      | 20L50000MC                                                                                                         |
 | GPU       | Intel UHD 620                        |                                                                                                                    |
 | SSD       | Samsung 970 Evo 512GB                | Replaced cursed PM 981 which stil doesn't work reliably                                                            |
-| Memory    | 12GB DDR4 2400Mhz                    |                                                                                                                    |
+| Memory    | 8GB DDR4 2400Mhz                     |                                                                                                                    |
 | Battery   | Dual battery                         |                                                                                                                    |
 | Camera    | 720p Camera                          |                                                                                                                    |
 | Wifi & BT | Intel Wireless-AC 8265               | Use AirportItlwm for your macOS version and enjoy native Wi-Fi control, or use Heliport app.                        |
@@ -51,9 +51,8 @@ If you come across a bug or wish to enhance this repository, kindly create an is
 
 | Component      | Version        |
 | -------------- | -------------- |
-| macOS Catalina | 10.15.7 (19H2) |
-| macOS Big Sur  | 11.2.2 (20D80) |
-| OpenCore       | v0.6.9         |
+| macOS Big Sur  | 11.7.4         |
+| OpenCore       | v0.8.8.        |
 
 </details>
 
@@ -68,7 +67,7 @@ If you come across a bug or wish to enhance this repository, kindly create an is
 | AppleALC               | 1.6.0          |
 | BrightnessKeys         | 1.0.1          |
 | CPUFriend              | 1.2.3          |
-| CPUFriendDataProvider  | i5-8250U       |
+| CPUFriendDataProvider  | i5-8350U       |
 | HibernationFixup       | 1.4.0          |
 | HoRNDIS                | Disabled, 9.2  |
 | IntelBluetoothFirmware | 1.1.2          |
